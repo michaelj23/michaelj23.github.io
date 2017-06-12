@@ -1,3 +1,12 @@
 .description-title {
-    font-size: 20px;
+  font-size: 20px;
+}
+
+.btn {
+  white-space: normal !important;
+  word-wrap: break-word;
+}
+
+#coursework {
+  margin-bottom: 15px;
 }
